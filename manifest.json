@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "bin": "https://raw.githubusercontent.com/Cvsudre/esp32-pull-ota/main/firmware/esp32.bin"
 }
